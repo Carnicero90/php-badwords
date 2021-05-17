@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php 
-        // la frase in $par non ha particolarmente senso, è tanto per alcune parole ripetute un tot di volte.
+        // la frase in $par non ha particolarmente senso, è tanto per avere alcune parole ripetute un tot di volte.
         $par = 'No alla censura, porca vacca! La vacca in India viene considerata un animale sacro. Porca miseria, non sono mai stato in India, cosa da censurare.';
         $censorParam = 'badword';
         $parLen = strlen($par);
